@@ -9,7 +9,7 @@
 
 
 <div align="center" style="height: 100vh;">
-  <img src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="400" height="400">
+  <img src="https://tenor.com/view/oggy-hi-gif-25822737" width="400" height="400">
 </div>
 
 
