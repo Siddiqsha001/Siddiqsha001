@@ -24,31 +24,29 @@ npx siddiqsha
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const kayal = {
-    pronouns: "He" | "Him",
-    code: ["Python", "C++", Dart],
-    askMeAbout: ["Machine Learning", "Deep Learning", "LLMs", "GenAI", "AI4SocialGood"],
-    technologies: {
-        AI_ML: {
-            frameworks: ["TensorFlow", "PyTorch", "Scikit-Learn"],
-            libraries: ["Transformers", "OpenCV", "Keras", "XGBoost"],
-            tools: ["MLflow", "Weights & Biases", "Label Studio"]
-        },
-        dataScience: {
-            analysis: ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            notebooks: ["Jupyter", "Google Colab", "Kaggle Notebooks"]
-        },
-        devOps: ["Docker🐳", "Streamlit", "Gradio"],
-        databases: ["PostgreSQL", "MongoDB"],
-        misc: ["LangChain", "Hugging Face", "OpenAI API"]
-    },
-    architecture: ["LLM pipelines", "RAG", "Model-as-a-Service"],
-    currentFocus: "Research in GenAI & Applied AI for Healthcare",
-    funFact: "My ML models sometimes hallucinate, but they still outperform my sleep-deprived brain 😄"
-};
 
-```
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br>
+
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
