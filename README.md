@@ -1,4 +1,4 @@
-<h2><img src="https://tenor.com/view/oggy-hi-gif-25822737" width="50"/> Helloooww🙏🏻, I'm Siddiqsha A! <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" width="50"></h2>
+<h2><img src="https://tenor.com/bwuNr.gif" width="50"/> Helloooww🙏🏻, I'm Siddiqsha A! <img src="https://tenor.com/bwuNr.gif" width="50"></h2>
 
 </em></p>
 
@@ -9,7 +9,7 @@
 
 
 <div align="center" style="height: 100vh;">
-  <img src="https://tenor.com/view/oggy-hi-gif-25822737" width="400" height="400">
+  <img src="[https://tenor.com/view/oggy-hi-gif-25822737](https://tenor.com/js8Eb47l4Vb.gif)" width="400" height="400">
 </div>
 
 
