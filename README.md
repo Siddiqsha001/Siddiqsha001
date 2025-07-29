@@ -17,8 +17,9 @@
 
 👇 Hit in your console or terminal to connect with me.
 
-bash
+```sh
 npx siddiqsha
+```
 
 **👆 This command line tool can be found at [npx siddiqsha](https://github.com/Siddiqsha001/npx-siddiqsha)**
 
