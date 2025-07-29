@@ -9,7 +9,7 @@
 
 
 <div align="center" style="height: 100vh;">
-  <img src="[https://tenor.com/view/oggy-hi-gif-25822737](https://tenor.com/js8Eb47l4Vb.gif)" width="400" height="400">
+  <img src="https://media.tenor.com/6ggz2yIjeL4AAAAi/oggy-hi.gif" width="400" height="400">
 </div>
 
 
