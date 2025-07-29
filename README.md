@@ -1,85 +1,109 @@
-# Konichiwa 👋
+<h2><img src="https://tenor.com/view/oggy-hi-gif-25822737" width="50"/> Helloooww🙏🏻, I'm Siddiqsha A! <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" width="50"></h2>
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</em></p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/kayal?label=Follow)](https://twitter.com/intent/follow?screen_name=kayalennian)
+[![Linkedin: Kayal](https://img.shields.io/badge/-kayal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayal/)](https://www.linkedin.com/in/kayal-ennian-a-g-80b515245/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://vuega.net/)](https://vuega.net/)
+
+
+<div align="center" style="height: 100vh;">
+  <img src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="400" height="400">
 </div>
 
-</br>
-</br>
-</br>
-
-
-# About ME 💬 :
-
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
-
-</br>
-</br>
-</br>
 
 
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-</p>
-</br>
-</br>
-</br>
 
 
 
-# Contact Me :
 
-<p>
- </br>
+### 📫 Like to meet me?
 
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
+<a href="https://www.linkedin.com/in/kayal-ennian-a-g-80b515245/" target="_blank">
+  <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
 </a>
 
 
+👇 Hit in your console or terminal to connect with me.
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+```bash
+npx kayal
+```
+**👆 This command line tool can be found at [npx kayal](https://github.com/iamendless10/npx_card)**
 
-*************
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const kayal = {
+    pronouns: "He" | "Him",
+    code: ["Python", "C++", Dart],
+    askMeAbout: ["Machine Learning", "Deep Learning", "LLMs", "GenAI", "AI4SocialGood"],
+    technologies: {
+        AI_ML: {
+            frameworks: ["TensorFlow", "PyTorch", "Scikit-Learn"],
+            libraries: ["Transformers", "OpenCV", "Keras", "XGBoost"],
+            tools: ["MLflow", "Weights & Biases", "Label Studio"]
+        },
+        dataScience: {
+            analysis: ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+            notebooks: ["Jupyter", "Google Colab", "Kaggle Notebooks"]
+        },
+        devOps: ["Docker🐳", "Streamlit", "Gradio"],
+        databases: ["PostgreSQL", "MongoDB"],
+        misc: ["LangChain", "Hugging Face", "OpenAI API"]
+    },
+    architecture: ["LLM pipelines", "RAG", "Model-as-a-Service"],
+    currentFocus: "Research in GenAI & Applied AI for Healthcare",
+    funFact: "My ML models sometimes hallucinate, but they still outperform my sleep-deprived brain 😄"
+};
+
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C056%20hrs%2056%20mins-blue)
+
+
+**🐱 My GitHub Data** 
+
+> 📦 185.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 106 Contributions in the Year 2024
+ > 
+> 📜 10 Public Repositories 
+ > 
+
+**I'm an Night guy 🦇 and most productive on sunday** 
+
+```text
+🌞 Morning                       ████░░░░░░░░░░░░░░░░░░░░░   17.11 %
+
+🌆 Daytime                       ███████░░░░░░░░░░░░░░░░░░   25.36 %
+
+🌙 Night                         ██████████████░░░░░░░░░░░   57.23 %
+
+```
+
+
+```text
+🕑︎ Time Zone: Asia/Calcuta
+
+💬 Programming Languages: 
+Dart                     11 hrs 5 mins       ████████████░░░░░░░░░░░░░   49.44 % 
+C++                      9 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.97 % 
+Flutt                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+SQL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 10 mins      ████████████░░░░░░░░░░░░░   49.87 % 
+Vim                      10 hrs 55 mins      ████████████░░░░░░░░░░░░░   48.72 % 
+
+💻 Operating System: 
+Windows OS                      22 hrs 25 mins      █████████████████████████   100.00 % 
+```
